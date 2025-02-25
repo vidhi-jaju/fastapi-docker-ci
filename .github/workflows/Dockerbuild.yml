@@ -1,0 +1,20 @@
+name: Docker image build and push
+
+on: push  # Triggers the workflow on every push event
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Log in to Docker Hub
+        run: echo ${{ secrets.DOCKERTOKEN }} | docker login -u "jajuvidhi" --password-stdin
+
+      - name: Build Docker Image
+        run: docker build -t jajuvidhi/my-fastapi-app:latest .
+
+      - name: Push Docker Image
+        run: docker push jajuvidhi/my-fastapi-app:latest
