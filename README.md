@@ -206,3 +206,16 @@ fastapi-docker-ci/
 Now, every time you push changes to GitHub, the **workflow will rebuild & push** the image to **Docker Hub** automatically! 🚀🔥  
 
 Images For reference-
+
+![FastAPI Docker CI](https://github.com/vidhi-jaju/fastapi-docker-ci/blob/00bfc3a65a4003397511d07fbd59aea76015ac7f/images/1.png)
+![FastAPI Docker CI](https://github.com/vidhi-jaju/fastapi-docker-ci/blob/00bfc3a65a4003397511d07fbd59aea76015ac7f/images/2.png)
+![FastAPI Docker CI](https://github.com/vidhi-jaju/fastapi-docker-ci/blob/00bfc3a65a4003397511d07fbd59aea76015ac7f/images/3.png)
+![FastAPI Docker CI](https://github.com/vidhi-jaju/fastapi-docker-ci/blob/00bfc3a65a4003397511d07fbd59aea76015ac7f/images/4.png)
+![FastAPI Docker CI](https://github.com/vidhi-jaju/fastapi-docker-ci/blob/00bfc3a65a4003397511d07fbd59aea76015ac7f/images/5.png)
+![FastAPI Docker CI](https://github.com/vidhi-jaju/fastapi-docker-ci/blob/00bfc3a65a4003397511d07fbd59aea76015ac7f/images/6.png)
+![FastAPI Docker CI](https://github.com/vidhi-jaju/fastapi-docker-ci/blob/00bfc3a65a4003397511d07fbd59aea76015ac7f/images/7.png)
+![FastAPI Docker CI](https://github.com/vidhi-jaju/fastapi-docker-ci/blob/00bfc3a65a4003397511d07fbd59aea76015ac7f/images/8.png)
+![FastAPI Docker CI](https://github.com/vidhi-jaju/fastapi-docker-ci/blob/00bfc3a65a4003397511d07fbd59aea76015ac7f/images/9.png)
+![FastAPI Docker CI](https://github.com/vidhi-jaju/fastapi-docker-ci/blob/00bfc3a65a4003397511d07fbd59aea76015ac7f/images/10.png)
+![FastAPI Docker CI](https://github.com/vidhi-jaju/fastapi-docker-ci/blob/00bfc3a65a4003397511d07fbd59aea76015ac7f/images/11.png)
+![FastAPI Docker CI](https://github.com/vidhi-jaju/fastapi-docker-ci/blob/00bfc3a65a4003397511d07fbd59aea76015ac7f/images/12.png)
